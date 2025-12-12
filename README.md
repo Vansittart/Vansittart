@@ -1,1 +1,1 @@
-Account reserved for contributing code to [@apache](https://github.com/apache) and other open source organizations.
+_This account is reserved for contributing to specific open source organizations, relevant entities, etc._
